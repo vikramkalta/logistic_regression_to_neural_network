@@ -183,4 +183,4 @@ if __name__ == "__main__":
     print(f"\nFinal weights: {weights}")
     print(f"Final loss: {loss_history[-1]}")
     
-    visualize_learning_process(x, y, labels, weights_history, loss_history)
+    # visualize_learning_process(x, y, labels, weights_history, loss_history)
